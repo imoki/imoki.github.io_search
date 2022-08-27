@@ -40,6 +40,12 @@ content:
   categories:
     - name: 常用推荐
       sites:
+        - name: 原子空间
+          description: 原子空间作品分享平台。
+          url: https://everygogo.com/
+        - name: 防诈骗知识库
+          description: 防诈骗知识分享。
+          url: https://aioriot.com/
         - name: Dribbble
           description: 全球UI设计师作品分享平台。
           url: https://dribbble.com/
